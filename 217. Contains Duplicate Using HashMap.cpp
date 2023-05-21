@@ -20,7 +20,7 @@ bool containsDuplicate(vector<int>& nums)
 int main()
 {
     vector <int> numbers;
-    numbers = {1, 2, 3, 1};
+    numbers = {-100000000, 2, 3,1, 1};
     //int lenn = sizeof(numbers)/sizeof(numbers[0]);
 
 
